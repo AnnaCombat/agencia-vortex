@@ -1,6 +1,7 @@
 <h1 align="center"> Vortex - Marketing Digital</h1>
 
-![logo_da_empresa_vortex](https://user-images.githubusercontent.com/108768855/186028473-a235b515-902a-4a8d-abc8-13b5c712a3f3.png)
+![vortex](https://user-images.githubusercontent.com/108768855/186934133-3c98e85c-5bc3-43b9-8d74-ee1229eb4eb7.png)
+
 
 Projeto Pessoal, com intuito de praticar Html e Css, de uma empresa fictícia de Marketing Digital chamada Vortex. 
 No formulário usei o formspree.
